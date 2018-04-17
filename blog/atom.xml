@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Jose Barba-Montoya's Blog</title>
-	<link href="http://josebarbamontoya.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://josebarbamontoya.github.io/blog"/>
+	<link href="https://josebarbamontoya.github.io/blog/atom.xml" rel="self"/>
+	<link href="https://josebarbamontoya.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://josebarbamontoya.github.io/blog</id>
+	<id>https://josebarbamontoya.github.io/blog</id>
 	<author>
 		<name>Jose Barba-Montoya</name>
 		<email>j.barbamont@gmail.com</email>
@@ -19,7 +19,7 @@ layout: feed
 			<title>{{ post.title }}</title>
 			<link href="http://josebarbamontoya.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://josebarbamontoya.github.io{{ post.id }}</id>
+			<id>https://josebarbamontoya.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
