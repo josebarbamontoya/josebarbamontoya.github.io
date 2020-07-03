@@ -10,3 +10,9 @@ title: Jose Barba-Montoya's stuff
 	  {% endfor %}
 	</ul>
 <p style="text-align:center;"><img src="/img/photo5.jpg" height="250" width="250"></p>	
+
+	  {% for post in site.posts %}
+ <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+<p style="text-align:center;"><img src="/img/photo8.jpg" height="500" width="750"></p>	
