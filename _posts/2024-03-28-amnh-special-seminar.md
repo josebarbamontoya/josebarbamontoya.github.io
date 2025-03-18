@@ -4,4 +4,4 @@ title: "AMNH-RGGS Special Seminar - Assembling an Accurate Timetree of Life: Add
 date: 2024-03-28
 ---
 
-<p style="text-align:center;"><img src="/img/photo17.jpg" height="27500" width="21250"></p>
+<p style="text-align:center;"><img src="/img/photo17.jpg" height="6875" width="5313"></p>
