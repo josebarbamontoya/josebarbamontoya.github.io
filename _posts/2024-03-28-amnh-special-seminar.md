@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AMNH-RGGS Special Seminar - Assembling an Accurate Timetree of Life: Addressing Sources of Error and Uncertainty"
+title: "AMNH-RGGS Special Seminar – Assembling an Accurate Timetree of Life: Addressing Sources of Error and Uncertainty"
 date: 2024-03-28
 ---
 
